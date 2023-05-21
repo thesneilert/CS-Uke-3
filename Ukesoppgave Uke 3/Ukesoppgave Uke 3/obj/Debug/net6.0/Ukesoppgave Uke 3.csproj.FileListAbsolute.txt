@@ -1,0 +1,15 @@
+/Users/eilertrygh/Documents/GitHub/CS-Uke-3/Ukesoppgave Uke 3/Ukesoppgave Uke 3/bin/Debug/net6.0/Ukesoppgave Uke 3
+/Users/eilertrygh/Documents/GitHub/CS-Uke-3/Ukesoppgave Uke 3/Ukesoppgave Uke 3/bin/Debug/net6.0/Ukesoppgave Uke 3.deps.json
+/Users/eilertrygh/Documents/GitHub/CS-Uke-3/Ukesoppgave Uke 3/Ukesoppgave Uke 3/bin/Debug/net6.0/Ukesoppgave Uke 3.runtimeconfig.json
+/Users/eilertrygh/Documents/GitHub/CS-Uke-3/Ukesoppgave Uke 3/Ukesoppgave Uke 3/bin/Debug/net6.0/Ukesoppgave Uke 3.dll
+/Users/eilertrygh/Documents/GitHub/CS-Uke-3/Ukesoppgave Uke 3/Ukesoppgave Uke 3/bin/Debug/net6.0/Ukesoppgave Uke 3.pdb
+/Users/eilertrygh/Documents/GitHub/CS-Uke-3/Ukesoppgave Uke 3/Ukesoppgave Uke 3/obj/Debug/net6.0/Ukesoppgave Uke 3.csproj.AssemblyReference.cache
+/Users/eilertrygh/Documents/GitHub/CS-Uke-3/Ukesoppgave Uke 3/Ukesoppgave Uke 3/obj/Debug/net6.0/Ukesoppgave Uke 3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eilertrygh/Documents/GitHub/CS-Uke-3/Ukesoppgave Uke 3/Ukesoppgave Uke 3/obj/Debug/net6.0/Ukesoppgave Uke 3.AssemblyInfoInputs.cache
+/Users/eilertrygh/Documents/GitHub/CS-Uke-3/Ukesoppgave Uke 3/Ukesoppgave Uke 3/obj/Debug/net6.0/Ukesoppgave Uke 3.AssemblyInfo.cs
+/Users/eilertrygh/Documents/GitHub/CS-Uke-3/Ukesoppgave Uke 3/Ukesoppgave Uke 3/obj/Debug/net6.0/Ukesoppgave Uke 3.csproj.CoreCompileInputs.cache
+/Users/eilertrygh/Documents/GitHub/CS-Uke-3/Ukesoppgave Uke 3/Ukesoppgave Uke 3/obj/Debug/net6.0/Ukesoppgave Uke 3.dll
+/Users/eilertrygh/Documents/GitHub/CS-Uke-3/Ukesoppgave Uke 3/Ukesoppgave Uke 3/obj/Debug/net6.0/refint/Ukesoppgave Uke 3.dll
+/Users/eilertrygh/Documents/GitHub/CS-Uke-3/Ukesoppgave Uke 3/Ukesoppgave Uke 3/obj/Debug/net6.0/Ukesoppgave Uke 3.pdb
+/Users/eilertrygh/Documents/GitHub/CS-Uke-3/Ukesoppgave Uke 3/Ukesoppgave Uke 3/obj/Debug/net6.0/Ukesoppgave Uke 3.genruntimeconfig.cache
+/Users/eilertrygh/Documents/GitHub/CS-Uke-3/Ukesoppgave Uke 3/Ukesoppgave Uke 3/obj/Debug/net6.0/ref/Ukesoppgave Uke 3.dll
